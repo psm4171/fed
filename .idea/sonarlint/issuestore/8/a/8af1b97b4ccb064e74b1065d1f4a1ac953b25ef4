@@ -1,0 +1,12 @@
+
+E	java:S106("+Replace this use of System.out by a logger.( †¦¤úÿÿÿÿ
+Q	java:S125:"<This block of commented-out lines of code should be removed.(Êþÿò
+E	java:S106="+Replace this use of System.out by a logger.(³›«ˆøÿÿÿÿ
+Q	java:S125<"<This block of commented-out lines of code should be removed.(ÒçÒ
+@	java:S106D"+Replace this use of System.out by a logger.(´»â·
+@	java:S106H"+Replace this use of System.out by a logger.(ÎÓ–Ñ
+E	java:S106Q"+Replace this use of System.out by a logger.(€Ê•¬þÿÿÿÿ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ

@@ -1,0 +1,12 @@
+
+j
+java:S1450"TRemove the "first" field and declare it as a local variable in the relevant methods.(ØÌŸÖ
+k
+java:S1450"URemove the "second" field and declare it as a local variable in the relevant methods.(Êš¹ÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(óø÷üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ã”àÂúÿÿÿÿ
+?
+java:S1068")Remove this unused "first" private field.(ØÌŸÖ
+@
+java:S1068"*Remove this unused "second" private field.(Êš¹ÿ
